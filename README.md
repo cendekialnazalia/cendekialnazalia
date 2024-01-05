@@ -1,6 +1,7 @@
+![Software Engineer and IT Content Creator](https://github.com/cendekialnazalia/cendekialnazalia/blob/main/Frame%2017.png)
+
 ### Hi there 👋, Cendekia Luthfieta Nazalia
 #### Software Engineer and IT Content Creator
-![Software Engineer and IT Content Creator](https://github.com/cendekialnazalia/cendekialnazalia/blob/main/Frame%2017.png)
 
 I'm Cendekia from Indonesia, A Mobile Developer who is enthusiastic about every technological development can easily learn and adapt to new things and loves working in a team. 
 I also like sharing what I have learned through my platform. 
