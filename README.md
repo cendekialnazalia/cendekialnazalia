@@ -1,5 +1,7 @@
 ![Software Engineer and IT Content Creator](https://github.com/cendekialnazalia/cendekialnazalia/blob/main/Frame%2017.png)
 
+![Visitor Count](https://profile-counter.glitch.me/cendekialnazalia/count.svg)
+
 # Cendekia Luthfieta Nazalia
 
 Hi, Buddy Ceen here👋🏻
