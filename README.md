@@ -14,7 +14,7 @@ I also like sharing what I have learned through my platform.
 ## Examples of Work
 <a href="https://youtu.be/aetzJlKH0VE?si=ETf4ek0pd0E_KIf6
 " target="_blank"><img src="https://i9.ytimg.com/vi/aetzJlKH0VE/mqdefault.jpg?v=641885ea&sqp=CKjp3qwG&rs=AOn4CLDWRSEasSshM_CGOtzNsHM1Q04N2w" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
