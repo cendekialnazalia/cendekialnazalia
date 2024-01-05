@@ -26,4 +26,5 @@ alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cendekialnazalia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cendekialnazalia)](https://github.com/anuraghazra/github-readme-stats)
 
