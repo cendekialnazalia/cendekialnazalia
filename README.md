@@ -1,7 +1,6 @@
 ![Software Engineer and IT Content Creator](https://github.com/cendekialnazalia/cendekialnazalia/blob/main/Frame%2017.png)
 
 Visitor count
-
 ![Visitor Count](https://profile-counter.glitch.me/cendekialnazalia/count.svg)
 
 
