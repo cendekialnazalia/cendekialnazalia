@@ -1,6 +1,28 @@
 ![Software Engineer and IT Content Creator](https://github.com/cendekialnazalia/cendekialnazalia/blob/main/Frame%2017.png)
 
+Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/cendekialnazalia/count.svg)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Count</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg" alt="Visitor Count">
+</body>
+</html>
+
 
 # Cendekia Luthfieta Nazalia
 
