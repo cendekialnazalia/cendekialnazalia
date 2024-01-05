@@ -6,8 +6,9 @@ I'm Cendekia from Indonesia, A Mobile Developer who is enthusiastic about every 
 I also like sharing what I have learned through my platform. 
 
 ## Skills and Experience
-* 📱 Kotlin
+* 📱 Kotlin, XML
 * 💻 HTML, CSS, JS
+* 🎨 Figma, Whimsical, Maze, Miro, Notion
 * 🔭 I’m currently working on PLN Icon Plus 
 
 
