@@ -2,7 +2,7 @@
 
 # Cendekia Luthfieta Nazalia
 
-I'm Ceen here! 
+Hi, Buddy Ceen here👋🏻
 An IT Edu Content Creator on My Platform. A Software Engineer at [PLN Icon Plus](https://plniconplus.co.id/)  and also teach kids coding in [BimbingIn
 ](https://www.instagram.com/bimbing_in/) 🍦🍨🍧lover-the great melter of all resolve.
 
