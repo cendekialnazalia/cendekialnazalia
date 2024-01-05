@@ -2,8 +2,10 @@
 
 # Cendekia Luthfieta Nazalia
 
-I'm Cendekia from Indonesia, A Mobile Developer who is enthusiastic about every technological development can easily learn and adapt to new things, and loves working in a team. 
-I also like sharing what I have learned through my platform. 
+I'm Ceen here! 
+An IT Edu Content Creator on My Platform. A Software Engineer at [PLN Icon Plus](https://plniconplus.co.id/)  and also teach kids coding in [BimbingIn
+](https://www.instagram.com/bimbing_in/) 🍦🍨🍧lover-the great melter of all resolve.
+
 
 ## Skills and Experience
 * 📱 Kotlin, XML
